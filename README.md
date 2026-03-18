@@ -8,6 +8,13 @@ FindPal is a social app for meeting people through shared activities. Think Meet
 
 ---
 
+<img width="585" height="1266" alt="IMG_3934" src="https://github.com/user-attachments/assets/12847438-29cc-4079-8f61-5c373ea2a051" />
+<img width="585" height="1266" alt="IMG_3935" src="https://github.com/user-attachments/assets/26a40551-ce89-4220-ae9c-5e8fcfede88c" />
+<img width="585" height="1266" alt="IMG_3936" src="https://github.com/user-attachments/assets/c1b3e966-a72c-41e9-a720-076ceaf5c256" />
+<img width="585" height="1266" alt="IMG_3937" src="https://github.com/user-attachments/assets/a79f9e01-ef11-4e5e-a354-b69d1128181a" />
+<img width="585" height="1266" alt="IMG_3938" src="https://github.com/user-attachments/assets/2c413e83-f005-488e-a99d-c878fdbcf8d4" />
+
+
 ## The Problem
 
 - Young people in cities are lonely but won't admit it
